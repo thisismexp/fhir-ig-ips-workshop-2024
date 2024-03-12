@@ -8,7 +8,7 @@ presentation:
 ***
 ### Andreas Schuler & Oliver Krauss
 #### *12.03.2024*
-### *HL7 Austria Jahrestagung 2023*
+### *HL7 Austria Jahrestagung 2024*
 
 
 <!-- .slide -->
