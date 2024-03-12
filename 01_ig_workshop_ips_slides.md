@@ -20,7 +20,7 @@ Im Rahmen des Workshops werden folgende Werkzeuge eingesetzt
 - *FHIR&reg; Shorthand.* &ndash; https://github.com/FHIR/sushi
 
 Alle Unterlagen/Skripte/etc. finden sich unter 
-### [https://github.com/HL7Austria/workshop_ig_infrastructure](https://github.com/HL7Austria/fhir-ig-ips-workshop)
+### [https://github.com/HL7Austria/fhir-ig-ips-workshop](https://github.com/HL7Austria/fhir-ig-ips-workshop)
 
 
 <!-- .slide -->
