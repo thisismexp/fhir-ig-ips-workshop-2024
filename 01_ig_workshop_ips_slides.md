@@ -402,6 +402,7 @@ Title: "Austria Medication Request"
 ***
 ### Ergänzen von Profilen - Profile auf Reference
 - Wir ergänzen ein neues Profil für den AT IPS Patienten, der eine spezielle Extension verwendet, damit `1..*` zusätzliche Profile definiert werden können sog. &rarr; *Imposed Profiles*
+- !! include hl7.fhir.uv.extensions: 5.1.0 dependency for this extension to be usable
 
 ```yaml
 Alias: $austrian-patient = http://hl7.at/fhir/HL7ATCoreProfiles/4.0.1/StructureDefinition/at-core-patient
